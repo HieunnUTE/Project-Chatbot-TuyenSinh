@@ -1,0 +1,87 @@
+Điểm thi ngành cơ điện tử: khối A 25đ, khối A1 24đ, khối D 23đ.
+Điểm thi ngành ô tô: khối A 27đ, khối A1 26đ, khối D 25đ.
+Điểm thi ngành công nghệ thông tin: khối A 27,5đ, khối A1 26,5 điểm, khối D 25đ.
+Điểm thi ngành kỹ thuật máy tính: khối A 24đ, khối A1 23,5 điểm, khối D 21đ.
+Điểm thi ngành quản lý công nghiệp: khối A 22đ, khối A1 21,5 điểm, khối D 20đ.
+Điểm thi ngành kỹ thuật công trình xây dựng: khối A 19đ, khối A1 18,5 điểm, khối D 17đ.
+Điểm thi ngành thiết kế đồ họa: khối A 21đ, khối A1 20 điểm, khối D 19,5đ.
+Điểm thi ngành điện điện tử: khối A 21,5đ, khối A1 20 điểm, khối D 19đ.
+Điểm thi ngành điện tử viễn thông: khối A 19,5đ, khối A1 18,5 điểm, khối D 18đ.
+Điểm thi ngành Robot và AI: khối A 28đ, khối A1 27 điểm, khối D 26đ.
+Điểm thi ngành công nghệ thực phẩm: khối A 22đ, khối A1 21 điểm, khối D 20,5đ.
+Điểm thi ngành thương mại điện tử: khối A 22,5đ, khối A1 21,5 điểm, khối D 19đ.
+Điểm thi ngành kế toán: khối A 23đ, khối A1 22đ, khối D 20đ.
+Điểm thi ngành công nghệ kỹ thuật cơ khí: khối A 22,5đ, khối A1 21,5 điểm, khối D 19đ.
+Điểm thi ngành công nghệ chế tạo máy: khối A 23đ, khối A1 22 điểm, khối D 20đ.
+Hệ đào tạo: đại trà, chất lượng cao, hệ đào tạo liên kết quốc tế.
+
+Điểm xét tuyển được tính như thế nào: Tổ hợp A00 = Toán * 2  + Lý + Hóa, Tổ hợp A01 = Toán * 2  + Lý + Anh, Tổ hợp D01 = Toán * 2  + Văn + Anh.
+Nhà trường có tư vấn trực tuyến (Live stream) về tuyển sinh không: Nhà trường sẽ giải đáp tất cả các thắc mắc của thí sinh khi tham gia tư vấn tuyển sinh trực tuyến (livestream) vào Thứ bảy cuối mỗi tháng.
+Phương thức tuyển sinh:
+Phương thức 1: xét tuyển học bạ THPT, xét tuyển dựa vào điểm trung bình học bạ 5 học kỳ (trừ học kỳ 2 lớp 12) của từng môn theo tổ hợp từ 7.0 trở lên (có 3 môn) vào học hệ chất lượng cao hoặc đại trà
+Phương thức 2: xét tuyển thí sinh theo kết quả điểm thi tốt nghiệp THPT năm 2022 theo các tổ hợp môn xét tuyển từng ngành học, thời gian nhận hồ sơ và công bố kết quả theo quy định của Bộ GD-ĐT
+Phương thức 3: xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của ĐH Quốc gia TP.HCM, điều kiện xét tuyển: điểm bài thi đánh giá năng lực ĐH Quốc gia TP.HCM năm 2022 từ 700 điểm trở lên
+Phương thức 4: xét tuyển thẳng, ưu tiên xét tuyển thẳng, xét tuyển thẳng theo quy định của Bộ GD-ĐT, ưu tiên xét tuyển thẳng theo quy định của trường (thí sinh giải 1, 2, 3 cấp tỉnh, giải khuyến khích học sinh giỏi cấp quốc gia hoặc giải 4 cuộc thi khoa học kỹ thuật cấp quốc gia; học sinh giỏi trường chuyên - tốp 200; xét điểm IELTS quốc tế; điểm SAT quốc tế; trường THPT liên kết do hiệu trưởng giới thiệu).
+
+Cách thức tuyển sinh: Phương thức 1, 3, 4 nhận hồ sơ đăng ký xét tuyển online tại trang thông tin xét tuyển của trường từ ngày 1-3-2022 đến 6-6-2022, công bố kết quả ngày 30-6-2022.
+Mỗi thí sinh được đăng ký nhiều diện nếu thỏa điều kiện, mỗi diện xét tối đa 20 nguyện vọng (các nguyện vọng được xét theo thứ tự ưu tiên, nguyện vọng 1 là ưu tiên nhất), mỗi mã ngành chỉ đăng ký một tổ hợp có điểm cao nhất.
+Đối với những ngành có môn năng khiếu vẽ: Điểm trung bình học bạ 5 học kỳ (trừ học kỳ 2 lớp 12) của từng môn theo tổ hợp từ 6,0 trở lên, kết hợp điểm thi môn vẽ: nhà trường tổ chức thi riêng, thí sinh đăng ký dự thi môn năng khiếu (vẽ trang trí màu nước, vẽ đầu tượng) tại trang thông tin xét tuyển. Thí sinh có thể chọn thi cả 2 môn.
+Hạn cuối nhận hồ sơ trực tuyến và phí dự thi 300.000 đồng/môn: 24-5-2022. Thí sinh xem phòng thi, số báo danh và in thẻ dự thi từ ngày 31-5-2022 tại trang thông tin xét tuyển. Thời gian thi vào ngày 4 và 5-6-2022. Điểm thi môn năng khiếu sẽ được tự động cập nhật khi có kết quả trên hệ thống.
+
+Thông tin về trường: Trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh (tiếng Anh: Ho Chi Minh City University of Technology and Education) là một trường đại học đa ngành tại Việt Nam, với thế mạnh về đào tạo kỹ thuật, được đánh giá là một trong những trường đại học kỹ thuật hàng đầu về đào tạo khối ngành kỹ thuật tại miền Nam,
+Trường là một trong 6 Đại học Sư phạm Kỹ thuật của cả nước – đào tạo kỹ thuật lấy ứng dụng làm trọng tâm để giảng dạy, có chức năng đào tạo kỹ sư công nghệ và giáo viên kỹ thuật, Đồng thời cũng là trung tâm nghiên cứu khoa học và chuyển giao công nghệ của miền Nam Việt Nam.
+
+
+Các khoa của trường: Khoa Lý luận Chính trị
+Khoa Khoa học ứng dụng
+Khoa Cơ khí Chế tạo máy
+Khoa Điện - Điện tử
+Khoa Cơ khí Động Lực
+Khoa Kinh tế
+Khoa Công nghệ thông tin
+Khoa In và Truyền thông
+Khoa Công nghệ May và Thời Trang
+Khoa Công nghệ Hóa học và Thực phẩm
+Khoa Xây dựng
+Khoa Ngoại ngữ
+Khoa Đào tạo Chất lượng cao
+Viện Sư phạm Kỹ thuật
+Trường Trung học Kỹ thuật Thực hành.
+
+Major of University: Đào tạo Kỹ sư (4 năm):Công nghệ Kỹ thuật điện, điện tử (AUN-QA)
+Công nghệ chế tạo máy
+Công nghệ Kỹ thuật cơ điện tử (AUN-QA)
+Công nghệ Kỹ thuật công trình Xây dựng (AUN-QA)
+Công nghệ Kỹ thuật ô tô (AUN-QA)
+Công nghệ Kỹ thuật cơ khí (AUN-QA)
+Công nghệ Kỹ thuật nhiệt (AUN-QA)
+Quản lý công nghiệp (AUN-QA)
+Công nghệ Kỹ thuật Điều khiển và Tự động hóa (AUN-QA)
+Công nghệ May (AUN-QA)
+Công nghệ Kỹ thuật Điện tử, Truyền thông
+Kỹ thuật Xây dựng công trình Giao thông
+Công nghệ Kỹ thuật Máy tính
+Công nghệ Thông tin
+Công nghệ In
+Kế toán
+Thương mại điện tử
+Kỹ thuật Công nghiệp
+Kỹ thuật Y sinh (Điện tử Y sinh)
+Công nghệ vật liệu
+Logistics và quản lý chuỗi cung ứng
+Công nghệ Kỹ thuật môi trường
+Công nghệ thực phẩm
+Công nghệ Kỹ thuật Hóa học
+Kinh tế gia đình
+Sư phạm tiếng Anh
+Ngôn ngữ Anh
+Kinh doanh quốc tế
+Quản lý xây dựng
+Năng lượng tái tạo
+Chế biên lâm sản
+Kỹ thuật dữ liệu
+Robot và trí tuệ nhân tạo.
+
+
+Các nghề đào tạo: Chương trình đào tạo lý thuyết gắn liền với thực hành, chú trọng về kỹ năng nghề và khả năng giải quyết các vấn đề trong thực tế sản xuất.
+1
